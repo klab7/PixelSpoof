@@ -6,31 +6,31 @@ object Values {
     const val PRODUCT = "kodiak"
     const val BRAND = "google"
     const val MANUFACTURER = "Google"
-    const val FINGERPRINT = "google/kodiak/kodiak:17/CD1A.260714.001.A9/15938155:user/release-keys"
-    const val DESCRIPTION = "kodiak-user 17 CD1A.260714.001.A9 15938155 release-keys"
-    const val ID = "CD1A.260714.001.A9"
-    const val BOOTLOADER = "spacecraft-17.4-15938155"
+    const val FINGERPRINT = "google/kodiak/kodiak:17/CD1A.261005.003/16262255:user/release-keys"
+    const val DESCRIPTION = "kodiak-user 17 CD1A.261005.003 16262255 release-keys"
+    const val ID = "CD1A.261005.003"
+    const val BOOTLOADER = "spacecraft-17.4-16262255"
 
     const val SOC_MANUFACTURER = "Google"
     const val SOC_MODEL = "Tensor G6"
     const val PLATFORM = "malibu"
 
-    const val TIME = 1784919402000L
-    const val TIME_SEC = "1784919402"
+    const val TIME = 1788490823000L
+    const val TIME_SEC = "1788490823"
     const val TAGS = "release-keys"
     const val TYPE = "user"
     const val USER = "android-build"
-    const val HOST = "r-36404f8caf3535e4-26ss"
+    const val HOST = "r-36404f8caf3535e4-bbbk"
 
     const val RELEASE = "17"
     const val SDK_INT = 37
     const val SDK_FULL = "37.0"
-    const val SECURITY_PATCH = "2026-08-05"
-    const val INCREMENTAL = "15938155"
+    const val SECURITY_PATCH = "2026-10-05"
+    const val INCREMENTAL = "16262255"
     const val FIRST_API_LEVEL = "37"
 
-    const val BUILD_DATE = "Fri Jul 24 18:56:42 UTC 2026"
-    const val BUILD_UUID = "SOpdezEibqmfdT6p2_OfWNdeVDFSWI-NZSL-D5zp22I"
+    const val BUILD_DATE = "Fri Sep  4 03:00:23 UTC 2026"
+    const val BUILD_UUID = "al_y6qzJJThWGOL154hy3jLvbYI_e78F5g7EwGrm4h4"
     const val BASEBAND = "a900a-MP_260716-260716-M-15880348"
 
     const val CLIENT_ID = "android-google"
